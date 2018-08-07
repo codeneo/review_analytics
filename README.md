@@ -32,4 +32,4 @@ In a terminal or command window, execute `parse_reviews.py reviews.html` to get 
 - Which is the most frequently visited restaurant?
 - What is the most frequent time of visit?
 
-These are some of the few easily available insights. However with NLP we could have sentiment analysis. Moreover we could possibly recommend restaurants based on factor driving a good experience.
+These are some of the few easily available insights. However with NLP we could have sentiment analysis. Moreover we could possibly recommend restaurants based on factors driving a good experience.
